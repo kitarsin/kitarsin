@@ -16,7 +16,7 @@ I build practical software with **TypeScript** and **C#/.NET**—from browser ex
 
 | Project | What it does |
 |---|---|
-| **[LinguaLoom](https://github.com/kitarsin/lingualoom)** | An open-source browser extension for literary translation of Wattpad chapters. Bring your own OpenRouter key. |
+| **[LinguaLoom](https://github.com/kitarsin/lingualoom)** | An open-source browser extension for literary translation of Fiction chapters. Bring your own OpenRouter key. |
 | **[ODIN](https://github.com/kitarsin/ODIN)** | A gamified tutoring system for learning C# bitwise and logical operators. |
 | **[ODIN Core API](https://github.com/kitarsin/odinroot)** | The ASP.NET Core backend that analyzes code submissions and supports adaptive learning interventions. |
 
