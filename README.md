@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Ian Villaraza
 
-<!--
-**kitarsin/kitarsin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software developer who enjoys building useful web applications, APIs, and browser tools. My recent work includes an AI-powered translation extension and a gamified tutoring system.
 
-Here are some ideas to get you started:
+## Featured projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[LinguaLoom](https://github.com/kitarsin/lingualoom)** — An open-source browser extension for literary translation of Wattpad chapters, with a bring-your-own-key OpenRouter option.
+- **[ODIN](https://github.com/kitarsin/ODIN)** — A gamified tutoring system that helps computer science students learn C# bitwise and logical operators.
+- **[ODIN Core API](https://github.com/kitarsin/odinroot)** — The ASP.NET Core backend for ODIN, including code analysis and adaptive learning interventions.
+
+## Tools I use
+
+TypeScript · React · C# · ASP.NET Core · Node.js
+
+## More
+
+[Non-existent website](https://kitarsin.github.io) · [GitHub repositories](https://github.com/kitarsin?tab=repositories)
