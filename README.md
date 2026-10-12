@@ -6,7 +6,7 @@
 
 I build practical software with **TypeScript** and **C#/.NET**—from browser extensions to learning tools.
 
-[Portfolio](https://kitarsin.github.io) · [Projects](https://github.com/kitarsin?tab=repositories)
+[Non-existent Portfolio](https://kitarsin.github.io) · [Projects](https://github.com/kitarsin?tab=repositories)
 
 </div>
 
