@@ -4,14 +4,15 @@
 
 <br/>
 
-[![portfolio](https://img.shields.io/badge/%24_open-portfolio-0d1117?style=flat-square&labelColor=161b22&color=24c6dc&logo=githubpages&logoColor=white)](https://kitarsin.github.io)
-[![repos](https://img.shields.io/badge/%24_ls-repositories-0d1117?style=flat-square&labelColor=161b22&color=7ee787&logo=github&logoColor=white)](https://github.com/kitarsin?tab=repositories)
+[![portfolio](https://img.shields.io/badge/%24_open-portfolio-0d1117?style=for-the-badge&labelColor=161b22&color=24c6dc&logo=githubpages&logoColor=white)](https://kitarsin.github.io)
+[![repos](https://img.shields.io/badge/%24_ls-repositories-0d1117?style=for-the-badge&labelColor=161b22&color=7ee787&logo=github&logoColor=white)](https://github.com/kitarsin?tab=repositories)
+[![mabatID](https://img.shields.io/badge/%24_run-mabatID-0d1117?style=for-the-badge&labelColor=161b22&color=f78166&logo=nextdotjs&logoColor=white)](https://github.com/kitarsin/mabatID)
+
+<br/>
+
+<img src="assets/sec-about.svg" alt="$ cat about.md" width="860" />
 
 </div>
-
----
-
-### `$ cat about.md`
 
 ```text
 Kristian Lawrence Villaraza (Ian) · software developer
@@ -21,52 +22,26 @@ TypeScript and C#/.NET. Lately that means MabatID, a web app a friend and I
 built to help young Filipinos get their government IDs.
 ```
 
----
+<div align="center">
 
-### `$ ls -la ~/projects`
+<br/>
 
-```text
-drwxr-xr-x  mabatID/     ★ latest   Next.js · React · TypeScript · Supabase
-drwxr-xr-x  lingualoom/  ● active   TypeScript · WebExtension · OpenRouter
-drwxr-xr-x  ODIN/                   C# · gamified tutoring system
-drwxr-xr-x  odinroot/               ASP.NET Core · code analysis API
-```
+<img src="assets/sec-projects.svg" alt="$ ls -la ~/projects" width="860" />
 
-#### 🪪 [`mabatID/`](https://github.com/kitarsin/mabatID) &nbsp;`★ latest`
+<br/><br/>
 
-> *"One step unlocks the next."*
+<a href="https://github.com/kitarsin/mabatID"><img src="assets/card-mabatid.svg" alt="mabatID: web app that guides young Filipinos through getting government IDs" width="860" /></a>
 
-A mobile-friendly web app that guides **young Filipinos through getting their government IDs**. Many IDs require another ID first, so MabatID maps the chain: which documents to gather and which IDs they unlock. Built with Xavier Imbang, who led product and frontend design, while I handled the backend, database and planning logic.
+<a href="https://github.com/kitarsin/lingualoom"><img src="assets/card-lingualoom.svg" alt="lingualoom: browser extension for literary translation of Wattpad chapters" width="424" /></a>
+<a href="https://github.com/kitarsin/ODIN"><img src="assets/card-odin.svg" alt="ODIN: gamified tutoring system for C# bitwise and logical operators" width="424" /></a>
 
-```text
-├── interactive ID path graph (React Flow + Dagre)
-├── route planner: fewest documents or lowest estimated fees
-├── checklists, goals and progress tracking
-└── 21 application guides · Next.js 16 · React 19 · Supabase Postgres
-```
+<a href="https://github.com/kitarsin/odinroot"><img src="assets/card-odinroot.svg" alt="odinroot: ASP.NET Core backend for ODIN" width="424" /></a>
 
-#### 🧵 [`lingualoom/`](https://github.com/kitarsin/lingualoom) &nbsp;`● active`
+<br/>
 
-Open-source browser extension for **literary translation of Wattpad chapters**. Bring your own OpenRouter key: no backend, no tracking.
+<img src="assets/sec-stack.svg" alt="$ echo $STACK" width="860" />
 
-```text
-├── chunked translation with live progress
-├── "Show Original" toggle, media and links preserved
-├── keys stay in your browser, sent only to OpenRouter over HTTPS
-└── Firefox + Chromium · TypeScript · MIT
-```
-
-#### 🎮 [`ODIN/`](https://github.com/kitarsin/ODIN)
-
-A **gamified tutoring system** for learning C# bitwise and logical operators, with adaptive learning built in.
-
-#### ⚙️ [`odinroot/`](https://github.com/kitarsin/odinroot) &nbsp;(ODIN Core API)
-
-The **ASP.NET Core backend** behind ODIN. It analyzes code submissions and powers adaptive learning interventions.
-
----
-
-### `$ echo $STACK`
+</div>
 
 ```text
 languages   TypeScript · C# · JavaScript
@@ -76,9 +51,15 @@ data        Supabase (Postgres)
 tools       Git · GitHub · VS Code
 ```
 
----
+<div align="center">
 
-### `$ status`
+<img src="https://skillicons.dev/icons?i=ts,js,cs,dotnet,nextjs,react,tailwind,supabase,nodejs,git,github,vscode&perline=12" alt="Tech stack icons" />
+
+<br/><br/>
+
+<img src="assets/sec-status.svg" alt="$ status" width="860" />
+
+</div>
 
 ```text
 [ok] building    lingualoom
@@ -88,5 +69,5 @@ tools       Git · GitHub · VS Code
 ```
 
 <div align="center">
-<sub><code>kitarsin@github:~$</code> thanks for stopping by · <a href="https://kitarsin.github.io">portfolio</a></sub>
+<img src="assets/footer.svg" alt="kitarsin@github:~$ thanks for stopping by" width="860" />
 </div>
