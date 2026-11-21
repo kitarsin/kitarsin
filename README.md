@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0f0c29,50:302b63,100:24c6dc&text=Ian%20Villaraza&fontColor=ffffff&fontSize=60&fontAlignY=38&desc=Software%20developer%20%C2%B7%20Web%20apps%20%C2%B7%20APIs%20%C2%B7%20Browser%20tools&descSize=18&descAlignY=60&animation=fadeIn" alt="Ian Villaraza banner" width="100%" />
 
 <a href="https://github.com/kitarsin">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=24C6DC&center=true&vCenter=true&width=640&lines=I+build+practical+software.;TypeScript+%E2%9C%A6+C%23+%2F+.NET;Browser+extensions+that+translate+stories.;Tutoring+systems+that+teach+you+to+code.;Currently+shipping+LinguaLoom+%E2%9C%A8" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=24C6DC&center=true&vCenter=true&width=640&lines=I+build+practical+software.;TypeScript+%E2%9C%A6+C%23+%2F+.NET;Helping+young+Filipinos+navigate+gov+IDs+with+MabatID.;Browser+extensions+that+translate+stories.;Tutoring+systems+that+teach+you+to+code.;Currently+shipping+LinguaLoom+%E2%9C%A8" alt="Typing animation" />
 </a>
 
 <br/>
@@ -18,13 +18,14 @@
 
 ## 👋 About me
 
-I'm a developer and student who likes building software people actually use, from browser extensions to learning tools. I work mostly in **TypeScript** and **C#/.NET**, and I care about clean architecture, privacy-first design, and tools that feel good to use.
+I'm a developer and student who likes building software people actually use, from browser extensions to learning tools. Lately that includes **MabatID**, a web app a friend and I built to help young Filipinos get their government IDs. I work mostly in **TypeScript** and **C#/.NET**, and I care about clean architecture, privacy-first design, and tools that feel good to use.
 
 ```ts
 const ian = {
   role: "Software developer",
   focus: ["Web apps", "APIs", "Browser tools", "Adaptive learning"],
-  stack: ["TypeScript", "C# / .NET", "ASP.NET Core"],
+  stack: ["TypeScript", "Next.js", "C# / .NET", "ASP.NET Core"],
+  latestRelease: "MabatID",
   currentlyBuilding: "LinguaLoom",
   currentlyPolishing: ["ODIN", "ODIN Core API"],
   funFact: "I build things that teach and translate.",
@@ -34,6 +35,27 @@ const ian = {
 <br/>
 
 ## 🚀 Featured projects
+
+### 🆕 Latest: MabatID
+
+<table>
+  <tr>
+    <td valign="top">
+      <h3>🪪 <a href="https://github.com/kitarsin/mabatID">MabatID</a> <sub>· "One step unlocks the next"</sub></h3>
+      <p>A mobile-friendly web app that guides <b>young Filipinos through getting their government IDs</b>. Many IDs require another ID first, so MabatID maps the chain: which documents to gather, and which IDs they unlock. Co-built with Xavier Imbang.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js%2016-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/React%2019-61DAFB?style=flat-square&logo=react&logoColor=222" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind%20CSS%204-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+        <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" />
+      </p>
+      <sub>🗺️ Interactive ID path graph · 🧭 Cheapest / fewest-documents route planner · ✅ Checklists and progress tracking · 📚 21 application guides</sub>
+    </td>
+  </tr>
+</table>
+
+### More projects
 
 <table>
   <tr>
@@ -76,7 +98,7 @@ const ian = {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,js,cs,dotnet,html,css,nodejs,git,github,vscode,visualstudio&perline=11" alt="Tech stack icons" />
+<img src="https://skillicons.dev/icons?i=ts,js,cs,dotnet,nextjs,react,tailwind,supabase,nodejs,git,github,vscode&perline=12" alt="Tech stack icons" />
 
 <br/><br/>
 
